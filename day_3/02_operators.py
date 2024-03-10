@@ -12,3 +12,4 @@ print(2**6) # exponent value
 print(3**2/2*3/3+6-4/(2*6))
 
 print(2   +6           -3)
+print(2   +6           -3)

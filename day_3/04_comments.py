@@ -15,3 +15,4 @@ print('''
       Teli
       ''') #To write  a long text or multiline strings, and also using """ or '' quotation marks inside
 # Assignment When to use comments in python 10 use cases
+print('yunus teli')
